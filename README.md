@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Marshal from FPTU<br><br>- 🔭 I’m working as a student<br>- 📚 I'm currently learning .Nwt<br>- ⚡ In my free time I work for capital</p>
+<p align="left">I'm Marshal from FPTU<br><br>- 🔭 I’m working as a student<br>- 📚 I'm currently learning .Net<br>- ⚡ In my free time I work for capital</p>
 
 ###
 
